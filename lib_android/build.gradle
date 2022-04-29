@@ -2,7 +2,7 @@ plugins {
     id 'com.android.library'
 }
 
-apply from: 'https://test.vemarsdev.com/minio/mars-base/mars_publish.gradle'
+apply from: 'https://lf3-devops-res.vemarsstatic.com/obj/mars-base/mars_publish.gradle'
 
 android {
     compileSdkVersion 30
