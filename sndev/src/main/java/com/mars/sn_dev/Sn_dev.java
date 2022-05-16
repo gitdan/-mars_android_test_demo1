@@ -1,4 +1,4 @@
-package com.mars.sntest;
+package com.mars.sn_dev;
 
 public class Sn_dev {
 
